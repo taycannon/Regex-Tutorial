@@ -23,7 +23,18 @@ Code:
 
 ## Regex Components
 
+Anchors
+Quantifiers
+Grouping Constructs
+Bracket Expressions
+Character Classes
+The OR Operator
+Flags
+Character Escapes
+
 ### Anchors
+Anchors in regular expressions (regex) are special characters that represent positions within a string. They include ^, which denotes the start of a line or string, and $, which signifies the end of a line or string. Anchors are used to control where a regex pattern should begin or end its matching.
+
 
 ### Quantifiers
 
