@@ -1,10 +1,14 @@
-# Title (replace with your title)
+# Regex-Tutorial
 
-Introductory paragraph (replace this with your text)
+My name is Taylor Cannon this is my first regex! So bear with me please! 
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+I will be describing a regex pattern for validating and extracting URLs from text. The regex pattern matches URLs that start with "http" or "https" and can contain various characters in the domain and path.
+
+Code:
+^(https?://)?([\w.-]+\.[a-z]{2,})?(:\d{1,5})?(/[\w./]*)?$
+
 
 ## Table of Contents
 
